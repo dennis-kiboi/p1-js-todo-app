@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy some snacks"
+    },
+    {
+      "id": 2,
+      "title": "Work on code challenge"
+    }
+  ]
+}
